@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Natlife
-- 👀 I’m interested in Website development
-- 🌱 I’m currently learning C#
--    I'm 19, in VietNam
--    
+I'm Nat
 
 <!---
 Natlife/Natlife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
