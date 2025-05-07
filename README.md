@@ -3,6 +3,13 @@
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/natlife193)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luong-ngo-536b61328/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Natlife&color=orange" alt="profile view"/> 
+  <br/>
+  <img src="https://img.shields.io/badge/-🔥-orange"/>
+</p>
+
+
 
 # 💻Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
