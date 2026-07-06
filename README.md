@@ -10,16 +10,16 @@
 
 <table style="border:none; border-collapse:collapse;">
   <tr>
-    <td align="right" width="140"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,cs,ts,py,rust,dart&theme=dark" /></td>
+    <td align="right" width="140" style="border:none;"><b>Languages</b></td>
+    <td style="border:none;"><img src="https://skillicons.dev/icons?i=java,cs,ts,py,rust,dart&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,dotnet,react,electron,flutter&theme=dark" /></td>
+    <td align="right" style="border:none;"><b>Frameworks</b></td>
+    <td style="border:none;"><img src="https://skillicons.dev/icons?i=spring,dotnet,react,electron,flutter&theme=dark" /></td>
   </tr>
   <tr>
-    <td align="right"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=supabase,vercel,cloudflare,selenium,unity&theme=dark" /></td>
+    <td align="right" style="border:none;"><b>Tools</b></td>
+    <td style="border:none;"><img src="https://skillicons.dev/icons?i=supabase,vercel,cloudflare,selenium,unity&theme=dark" /></td>
   </tr>
 </table>
 
