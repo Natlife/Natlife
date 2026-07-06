@@ -1,38 +1,32 @@
 <div align="center">
-  
-## 🌐Socials
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:6a11cb,100:2575fc&text=About&section=header&reversal=false&fontColor=black&fontAlign=50&fontAlignY=40"/>
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/natlife193)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luong-ngo-536b61328/)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Natlife&color=orange" alt="profile view"/> 
-  <br/>
-  <img src="https://img.shields.io/badge/-🔥-orange"/>
 </p>
 
+<table>
+  <tr>
+    <td align="right" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,cs,ts,py,rust,dart&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,dotnet,react,electron,flutter&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=supabase,vercel,cloudflare,selenium,unity&theme=dark" /></td>
+  </tr>
+</table>
 
-
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/scss-%23CC6699.svg?style=flat-square&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-
-# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Natlife&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Natlife&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Natlife&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
+</div>
 </div>
