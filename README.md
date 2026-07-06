@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Natlife&color=orange" alt="profile view"/> 
 </p>
 
-<table>
+<table style="border:none; border-collapse:collapse;">
   <tr>
     <td align="right" width="140"><b>Languages</b></td>
     <td><img src="https://skillicons.dev/icons?i=java,cs,ts,py,rust,dart&theme=dark" /></td>
